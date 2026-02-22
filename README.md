@@ -58,4 +58,11 @@ After analyzing customer shopping data, several interesting patterns emerged. Cl
 
 We also discovered that only 27% of customers are subscribed, but these subscribers tend to spend differently than non-subscribers. Interestingly, customers who use discounts aren't always bargain hunters — many of them still spend above the average amount, showing that discounts can attract quality customers without hurting revenue.
 
-Most products receive solid review ratings around 3.75, and there's a clear group of loyal customers (those with 10+ previous purchases) who keep coming back. Shipping preferences vary, but understanding which types lead to higher purchases can help streamline operations
+Most products receive solid review ratings around 3.75, and there's a clear group of loyal customers (those with 10+ previous purchases) who keep coming back. Shipping preferences vary, but understanding which types lead to higher purchases can help streamline operations 
+
+# Business Recommendations 
+Based on the data, here are a few practical recommendations. Start by rewarding  loyal customers — those with more than 10 purchases. A simple loyalty program or early access to sales can go a long way in keeping them engaged. Also, let  top-rated products shine by featuring them on your homepage and in marketing campaigns — people trust good reviews, so use them to your advantage.
+
+ Discount strategy is actually working well, since customers who use discounts still spend above average. Keep offering them, but experiment with different amounts or bundle deals to maximize value. When it comes to marketing, focus on Middle-aged and Young Adult customers — they're driving most of our revenue, so tailor our messaging to what matters to them. 
+
+ There's also a golden opportunity to convert repeat buyers into subscribers. Customers with more than five purchases are already hooked — a simple "subscribe and save" offer could turn them into steady, long-term revenue. Finally, don't overlook shipping options. If Express or Next Day Air customers tend to spend more, highlight those options at checkout to encourage higher spending
